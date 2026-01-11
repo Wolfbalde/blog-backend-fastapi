@@ -34,5 +34,3 @@ This project is a lightweight Blog Backend API built using FastAPI and SQLAlchem
 
 ---
 
-## 📂 Project Structure
-
